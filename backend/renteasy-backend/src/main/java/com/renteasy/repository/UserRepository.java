@@ -1,4 +1,3 @@
-// File: src/main/java/com/renteasy/repository/UserRepository.java
 package com.renteasy.repository;
 
 import com.renteasy.entity.UserEntity;

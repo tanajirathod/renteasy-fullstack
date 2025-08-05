@@ -1,4 +1,3 @@
-// File: src/main/java/com/renteasy/security/CustomUserDetailsService.java
 package com.renteasy.security;
 
 import com.renteasy.entity.UserEntity;

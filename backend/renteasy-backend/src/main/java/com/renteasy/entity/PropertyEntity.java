@@ -1,4 +1,3 @@
-// File: src/main/java/com/renteasy/entity/PropertyEntity.java
 package com.renteasy.entity;
 
 import jakarta.persistence.*;

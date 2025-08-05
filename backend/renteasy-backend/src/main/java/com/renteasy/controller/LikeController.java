@@ -1,4 +1,3 @@
-// File: src/main/java/com/renteasy/controller/LikeController.java
 package com.renteasy.controller;
 
 import com.renteasy.dto.LikeDTO;

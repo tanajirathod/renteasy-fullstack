@@ -1,4 +1,3 @@
-// File: src/main/java/com/renteasy/service/impl/LikeServiceImpl.java
 package com.renteasy.service.impl;
 
 import com.renteasy.dto.LikeDTO;

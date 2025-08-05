@@ -31,3 +31,31 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+application.properties
+.env
+
+
+
+# Build outputs
+/target/
+/build/
+
+# Environment and config
+application.properties
+.env
+
+# IDE files
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

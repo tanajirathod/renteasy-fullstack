@@ -1,4 +1,3 @@
-// File: src/main/java/com/renteasy/dto/InterestDTO.java
 package com.renteasy.dto;
 
 import jakarta.validation.constraints.NotNull;

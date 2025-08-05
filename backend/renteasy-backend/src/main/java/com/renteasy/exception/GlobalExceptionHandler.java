@@ -1,4 +1,3 @@
-// File: src/main/java/com/renteasy/exception/GlobalExceptionHandler.java
 package com.renteasy.exception;
 
 import org.springframework.http.HttpStatus;

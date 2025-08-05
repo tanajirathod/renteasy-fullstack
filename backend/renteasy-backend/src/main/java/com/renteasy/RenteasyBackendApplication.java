@@ -1,4 +1,3 @@
-// File: src/main/java/com/renteasy/RenteasyBackendApplication.java
 package com.renteasy;
 
 import org.springframework.boot.SpringApplication;

@@ -1,4 +1,3 @@
-// File: src/main/java/com/renteasy/repository/LikeRepository.java
 package com.renteasy.repository;
 
 import com.renteasy.entity.LikeEntity;
