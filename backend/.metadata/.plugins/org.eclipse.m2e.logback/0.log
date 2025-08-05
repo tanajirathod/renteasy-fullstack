@@ -71,3 +71,6 @@
 2025-08-05 22:17:44,274 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@7c50e568{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
 2025-08-05 22:17:44,470 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@478ea730{/help,null,STOPPED}
 2025-08-05 22:24:46,291 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-08-06 02:35:52,936 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-08-06 02:35:54,179 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-08-06 02:35:54,224 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
